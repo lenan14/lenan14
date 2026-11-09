@@ -9,3 +9,14 @@ I'm a Computer Science student at Hunter College minoring in Mathematics, intere
 - 💬 Ask me about Python, C++, JavaScript, React, SQL, or my hackathon projects!
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/lenango3/) | [Email](lena.ngo04@login.cuny.edu)
 - ⚡ Fun fact: I love participating in hackathons and building tech-for-good projects!
+
+### Languages & Tools
+
+![Python](https://img.shields.io/badge/Python-blue?logo=python)
+![Java](https://img.shields.io/badge/Java-orange?logo=java)
+![C++](https://img.shields.io/badge/C++-blue?logo=cplusplus)
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow?logo=javascript)
+![SQL](https://img.shields.io/badge/SQL-blue?logo=postgresql)
+![React](https://img.shields.io/badge/React-blue?logo=react)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight)
